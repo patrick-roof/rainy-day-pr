@@ -66,3 +66,10 @@ body {
 .loading {
     display: none;
 }
+
+.searchResult {
+    background-color: #7a7a7a;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
